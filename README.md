@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Cricket Game
+A 2D cricket batting game built with React.
+Features probability based power bar, bowling and batting animations.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
