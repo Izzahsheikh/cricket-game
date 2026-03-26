@@ -3,7 +3,9 @@ import { useState, useEffect, useRef, useCallback } from "react";
 // CricketGame
 
 
-// ── Probability tables ──────────────────────────────────────────────────────
+// ── Probability tables 
+
+// 
 const PROBABILITIES = {
   aggressive: [
     { outcome: "Wicket", prob: 0.40, color: "#e53e3e", label: "W" },
