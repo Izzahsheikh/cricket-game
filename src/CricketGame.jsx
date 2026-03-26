@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
+// CricketGame
+
 // ── Probability tables ──────────────────────────────────────────────────────
 const PROBABILITIES = {
   aggressive: [
